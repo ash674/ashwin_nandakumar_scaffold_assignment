@@ -1,0 +1,183 @@
+.container {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.hidden {
+	display: none;
+}
+
+.headContainer p {
+	text-align: center;
+	margin-top: 35px;
+	margin-left: 30px;
+
+}
+
+.footContainer p {
+	text-align: center;
+	margin-top: 50px;
+	margin-left: 35px;
+
+}
+
+.mainNav p {
+	margin-left: 165px;
+}
+
+.contentContainer p {
+	margin-top: 80px;
+}
+
+.mainDescription p {
+	margin-top: 100px;
+	margin-left: 410px;
+}
+
+.aboutUs p {
+	margin-top: 110px;
+}
+
+.offers p {
+	margin-top: 45px;
+}
+
+p{
+	color: white;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+.headContainer {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+
+.footContainer {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.logo{
+	display: flex;
+	background-color: black;
+	width: 120px;
+	height: 100px;
+	margin-left: 10px;
+}
+
+.mainNav {
+	display: flex;
+
+	background-color: black;
+	width: 500px;
+	height: 100px;
+	margin-right: 10px;
+	
+}
+
+.Border {
+	width: 995px;
+	height: 3px;
+	background-color: black;
+	margin-top: 20px;
+
+}
+
+.Border2 {
+	width: 995px;
+	height: 3px;
+	background-color: black;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.contentContainer {
+	display: flex;
+	flex-direction: column;
+}
+
+.mainDescription {
+	display: flex;
+	width: 980px;
+	height: 250px;
+	margin-left: 10px;
+	margin-top: 20px;
+	background-color: black;
+}
+
+.productImages{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.productImagesContainer{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.product1 {
+	width: 310px;
+	height: 200px;
+	margin-top: 20px;
+	background-color: black;
+	margin-right: 10px;
+}
+.product2 {
+	width: 310px;
+	height: 200px;
+	margin-top: 20px;
+	background-color: black;
+	margin-right: 10px;
+}
+.product3 {
+	width: 310px;
+	height: 200px;
+	margin-top: 20px;
+	background-color: black;
+
+}
+
+.products1 {
+	width: 250px;
+	height: 200px;
+	margin-top: 20px;
+	background-color: black;
+	margin-right: 10px;
+}
+.products2 {
+	width: 250px;
+	height: 200px;
+	margin-top: 20px;
+	background-color: black;
+	margin-right: 10px;
+}
+.products3 {
+	width: 250px;
+	height: 200px;
+	margin-top: 20px;
+	background-color: black;
+
+}
+
+.aboutUs {
+	width: 980px;
+	height: 250px;
+	margin-left: 10px;
+	background-color: black;
+	margin-top: 20px;
+}
+
+.offers {
+	width: 980px;
+	height: 100px;
+	background-color: black;
+	margin-left: 10px;
+	margin-top: 20px;
+}
